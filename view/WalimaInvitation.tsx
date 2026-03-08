@@ -402,7 +402,7 @@ export default function WalimaInvitation() {
                   <div className="grid sm:grid-cols-2 gap-4 text-sm text-[#4A5228]">
                     <div>
                       <p className="font-semibold">Sh. M Ahmad</p>
-                      <p className="text-[#6E7A3D]">0321-6913251</p>
+                      <p className="text-[#6E7A3D]">0321-6993251</p>
                     </div>
                     <div>
                       <p className="font-semibold">M. Hamza Yaseen</p>
@@ -531,7 +531,9 @@ export default function WalimaInvitation() {
                 <p className="text-[#4A5228] text-sm font-semibold mb-1 text-center">
                   Venue:
                 </p>
-                <p className="text-[#6E7A3D] text-sm text-center">Qasr-e-Sadiq</p>
+                <p className="text-[#6E7A3D] text-sm text-center">
+                  Qasr-e-Sadiq, Luddan Road, Burewala
+                </p>
               </motion.div>
             </div>
           </div>
